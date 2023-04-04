@@ -1,0 +1,17 @@
+.main{
+	display: flex;
+	flex-wrap: wrap;
+	width: 1200px;
+	margin-left: auto;
+	margin-right: auto;
+	}
+
+.one{
+	width: 50%;
+	min-height: 100px;
+	background-color: #e9cfcf;
+}
+.two{
+	width: 50%;
+	min-height: 100px;
+	}
